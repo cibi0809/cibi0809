@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi, I'm Cibi Raja
+🎯 **Aspiring Data Analyst | Advanced Excel | SQL | Python | Tableau| Power BI**
 
-<!--
-**cibi0809/cibi0809** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💼 About Me
+- 📊 Data Analyst with strong expertise in **Advanced Excel**
+- 🔍 Skilled in data cleaning, analysis, and dashboard creation
+- 📈 Experience working with **100+ client datasets**
+- 🚀 Passionate about turning data into actionable insights
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+### 🔹 Primary (Core Strength)
+- Advanced Excel (Pivot Tables, XLOOKUP, VLOOKUP, Power Query, Formulas)
+### 🔹 Data Analytics
+- SQL  
+- Python (Pandas)  
+- Data Cleaning & EDA  
+### 🔹 Visualization
+- Tableau  
+- Power BI  
+## 📊 Projects
+### 🚴 London Bike Sharing Analysis
+- Tools: Excel, SQL, Tableau  
+[View Project]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌦️ Weather Data Analysis
+- Tools: Excel, Python, Tableau  
+
+👉 Check my repositories for more projects!
+
+## 📫 Contact Me
+- 📧 Email: cibiraja.v@gmail.com  
+- 💼 LinkedIn: [www.linkedin.com/in/cibi-raja-044942246]  
+- 💻 GitHub: https://github.com/cibi0809  
+
+## ⚡ Fun Fact
+I enjoy solving real-world business problems using data and continuously improving my analytics skills 🚀
